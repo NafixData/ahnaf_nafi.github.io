@@ -10,6 +10,8 @@ Welcome to my personal portfolio! This website showcases my projects and achieve
 - **Project 2:** Environmental Impact Assessment using R Studio  
   Description: A study analyzing air pollution data and its effects on urban areas.
 
+I don;t know how to add a picture here!
+
 ## Contact
 
 Feel free to reach out to me for collaborations or inquiries!  
