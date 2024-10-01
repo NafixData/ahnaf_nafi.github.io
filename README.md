@@ -1,5 +1,4 @@
 # Md. Ahnaf Nafi
-# Md. Ahnaf Nafi's Portfolio
 
 Welcome to my personal portfolio! This website showcases my projects and achievements as a student of Urban and Regional Planning (URP) at BUET.
 
@@ -14,5 +13,5 @@ Welcome to my personal portfolio! This website showcases my projects and achieve
 ## Contact
 
 Feel free to reach out to me for collaborations or inquiries!  
-- Email: md.ahnaf.nafi@example.com  
+- Email: ahnafnafi98@gmail.com  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mdahnafnafi)
